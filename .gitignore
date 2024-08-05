@@ -5,8 +5,9 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+.env
 
-# testing
+# testing   
 /coverage
 
 # next.js
